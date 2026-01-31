@@ -38,6 +38,8 @@ It is built to survive without trust in people.
 The protocol must remain usable by ordinary individuals, on simple hardware, without permission from any authority.
 
 2. Core Design Goals
+
+
 2.1 Absolute Decentralization
 
 No foundation
@@ -79,6 +81,8 @@ Open source is not presented as an ethical choice, but as a security and decentr
 If any part cannot be audited, forked, or reimplemented, it does not belong in the protocol.
 
 3. Consensus and Block Structure
+
+
 3.1 Fast Block Architecture (Kaspa-inspired)
 
 The network uses a block structure optimized for very fast block times.
@@ -96,6 +100,8 @@ The design may use a DAG-based structure, inspired by Kaspa, where blocks refere
 This allows high throughput without relying on powerful hardware or centralized infrastructure.
 
 4. Mining Philosophy
+
+
 4.1 CPU-First Mining
 
 Mining is designed to strongly favor:
@@ -135,6 +141,8 @@ Favor general-purpose computation
 This philosophy is inspired by Monero, but adapted to favor accessibility over raw performance.
 
 5. Privacy Model
+
+
 5.1 Privacy Is Optional, But Strong
 
 Privacy is not mandatory, but when chosen, it must be real privacy.
@@ -174,6 +182,8 @@ User freedom
 No forced behavior
 
 6. Nodes and Network Accessibility
+
+
 6.1 Lightweight Nodes
 
 Running a node must be possible on:
