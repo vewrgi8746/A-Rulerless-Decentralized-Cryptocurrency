@@ -2,6 +2,7 @@
 
 A Rulerless Decentralized Cryptocurrency
 Technical Vision & Manifesto
+
 About the Name
 
 This project intentionally has no name.
