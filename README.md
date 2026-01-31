@@ -1,6 +1,7 @@
 # A-Rulerless-Decentralized-Cryptocurrency
 
 A Rulerless Decentralized Cryptocurrency
+
 Technical Vision & Manifesto
 
 
