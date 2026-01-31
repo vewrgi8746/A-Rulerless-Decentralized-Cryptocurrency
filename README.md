@@ -269,7 +269,31 @@ All coins enter circulation through mining under the same rules for everyone.
 
 Economic simplicity is preferred over financial engineering.
 
-10. Long-Term Stability
+10. Monetary Issuance & Emission Model (Monero-Inspired)
+
+The monetary emission of the protocol follows a smooth, predictable, and conservative model inspired by Monero.
+
+The design avoids abrupt halving events or artificial supply shocks that create speculative cycles and centralization pressure.
+
+Instead, emission is gradually reduced over time until it reaches a minimal, perpetual issuance — often referred to as tail emission.
+
+The purpose of perpetual minimal issuance is not inflationary growth, but long-term network security.
+
+This ensures that:
+
+Mining remains economically viable in the long term
+
+Network security does not depend on transaction fees alone
+
+No future participant is disadvantaged by a lack of block incentives
+
+The emission curve is deterministic, transparent, and identical for all participants.
+
+There are no privileged phases, no early advantages, and no special allocations.
+
+Monetary policy exists solely to support decentralization, security, and longevity — not scarcity narratives or price speculation.
+
+11. Long-Term Stability
 
 The protocol is designed to be:
 
@@ -289,7 +313,7 @@ External tools
 
 The core protocol should change as little as possible over time.
 
-11. Manifesto — Protocol Without Rulers
+12. Manifesto — Protocol Without Rulers
 
 This project is 100% open source.
 Not as a slogan, but as a requirement for its existence.
@@ -346,7 +370,7 @@ If you want change, build it.
 
 The protocol does not ask permission to exist.
 
-12. Final Statement
+13. Final Statement
 
 This project does not promise success, profit, or adoption.
 
